@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">stucofinal</string>
-
+    <string name="facebook_app_id">FB API KEY HERE</string>
+    <string name="fb_login_protocol_scheme">FB PROTOCOL SCHEME HERE</string>
+    <string name="google_maps_api_key">GOOGLE MAPS API KEY HERE</string>
 </resources>
